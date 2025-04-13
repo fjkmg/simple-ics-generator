@@ -1,0 +1,18 @@
+[
+    {
+      "title": "ゼミ",
+      "start_time": "18:00",
+      "duration_minutes": 90,
+      "location": "3号館401教室",
+      "description": "毎週の研究ゼミ。資料を持参。",
+      "dates": ["2025-04-15", "2025-04-22", "2025-05-13"]
+    },
+    {
+      "title": "英語の授業",
+      "start_time": "10:30",
+      "duration_minutes": 60,
+      "location": "オンライン",
+      "description": "Zoomリンクはポータルに掲載。",
+      "dates": ["2025-04-16", "2025-04-23", "2025-04-30"]
+    }
+  ]
